@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run1220919067/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run1250322278/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run1390862366/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run1647771032/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run1940458187/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run19967372/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run2075510922/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run305422009/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run319694248/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run329080350/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run424921487/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run436253758/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run739320931/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run890646494/Game1.jar"/>
+	<classpathentry kind="lib" path="dist/run96602247/Game1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
